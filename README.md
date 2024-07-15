@@ -43,8 +43,8 @@
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **Niagara NX Components** and working up on polishing my skills 🌱 in **IOT And Blockchain**.
- * Getting Started with NodeJS and the React!!
+ * I'm currently working on building cloud native solutions ☁️ using **AWS** and working up on polishing my skills 🌱 in **IOT And AI**.
+ * Already polished my skills in fullstack development using React, AWS Amplify and API Gateway 🚪
  
 ## Other Stuff
   :octocat: 
